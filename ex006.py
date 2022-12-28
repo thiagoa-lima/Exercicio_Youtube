@@ -8,4 +8,4 @@ raiz = math.sqrt(numero_1)
 
 print(f"O dobro de {numero_1} é {dobro}")
 print(f"O triplo de {numero_1} é {triplo}")
-print(f"A raiz quadrada de {numero_1} é {raiz:.2f}")
+print(f"A raiz quadrada de {numero_1} é {raiz:.2f}") #duas casas decimais flutuantes
