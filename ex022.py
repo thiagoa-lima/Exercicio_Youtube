@@ -3,6 +3,8 @@ nome = input("Digite seu nome completo: ")
 nome_maiusculo = nome.upper()
 nome_minusculo = nome.lower()
 nome_contar = len(nome_minusculo) - nome.count(" ")
+
+#O .split() CRIA UMA LISTA COM TODOS OS ITENS SEPARADOS
 primeiro_nome = nome.split()[0].capitalize()
 primeiro_nome_contar = len(primeiro_nome)
 
