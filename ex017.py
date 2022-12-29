@@ -1,11 +1,12 @@
 import math
 
-cateto_oposto = float(input("Comprimento do cateto oposto: "))
-cateto_adjacente = float(input("Comprimento do cateto adjacente: "))
+angulo = float(input("Digite o ângulo que voce deseja: "))
 
-hipotenusa = math.sqrt(cateto_oposto ** 2 + cateto_adjacente ** 2)
-hipotenusa_1 = math.hypot(cateto_oposto, cateto_adjacente)
+radiano = math.radians(angulo)
+seno = math.sin(radiano)
+cosseno = math.cos(radiano)
+tangente = math.tan(radiano)
 
-print(f"A hipotenusa mede {hipotenusa:.2f}")
-
-print(f"A hipotenusa mede {hipotenusa_1:.2f}")
+print(f"O ângulo de {angulo:.2f} tem o SENO de {seno:.2f}")
+print(f"O ângulo de {angulo:.2f} tem o COSSENO de {cosseno:.2f}")
+print(f"O ângulo de {angulo:.2f} tem o TANGENTE de {tangente:.2f}")
