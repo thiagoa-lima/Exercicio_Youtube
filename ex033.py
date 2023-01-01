@@ -10,3 +10,4 @@ maior = max(lista)
 print(f"O menor valor digitado foi {menor}.")
 print(f"O maior valor digitado foi {maior}.")
 
+
