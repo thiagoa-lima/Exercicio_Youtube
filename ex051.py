@@ -10,4 +10,3 @@ for i in range(primeiro, décimo, razão):
 
     print(i, end=" -> ")
 print("ACABOU")
-
