@@ -33,6 +33,3 @@ while continua in "S":
 print(f"Total de pessoas com mais de 18 anos: {len(maior_18)}")
 print(f"Ao todo tempo {len(homem)} homens cadastrados")
 print(f"E temos {len(f_menor18)} mulheres com menos de 20 anos")
-
-
-    
