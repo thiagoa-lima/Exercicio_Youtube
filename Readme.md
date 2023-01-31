@@ -4,7 +4,7 @@ Esse repositório é uma resolução de vários exercícios elaborados pelo prof
 
 ## Objetivo
 
-O objetivo com essa playlist é treinar treinar as principais funcionalidades do Pyhton. 
+O objetivo com essa playlist é treinar as principais funcionalidades do Pyhton. 
 
 ## Construído com:
 
